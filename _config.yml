@@ -1,0 +1,13 @@
+title: Friends of the Music
+author: Willie Payne
+email: williepain@gmail.com
+description: We are a team of education technologists working to contribute curriculum and tools for Matt McLean and the Young Composers and Improvisors Workshop.
+lang: en
+color_scheme: github # this specifies color scheme for syntax highlighting
+github_username: huriphoonado
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
